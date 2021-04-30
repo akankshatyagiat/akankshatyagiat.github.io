@@ -1,4 +1,8 @@
-# pupilfirstschool project for web development beginner.
+# pupilfirstschool project for web development.
 
-link to the hosted webpage: click on
+The task was given to make the man kick,punch, block.
+The man should also move forward and backward.
+
+
+see the martial art by clicking on the link below =>
 https://akankshatyagiat.github.io./ 
